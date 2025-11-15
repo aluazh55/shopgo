@@ -27,4 +27,6 @@ func main() {
 		shop.OrderCost(reader)
 	}
 
+	fmt.Scanln()
+
 }
